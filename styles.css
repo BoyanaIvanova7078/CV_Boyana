@@ -1,0 +1,43 @@
+.bg-purple{
+    background-color:rgb(206, 161, 222);
+}
+
+.custom_text{
+    color:#800080
+}
+
+
+
+.text_color{
+font-size: 18px;
+ color:#791779
+}
+
+.text_size{
+    font-size:20px;
+}
+
+.background-image {
+   background-image: url(cherry.jpg);
+    background-position: auto;
+    background-size:contain;
+  }
+  
+
+.dot {
+    display: inline-block ;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: #000;
+    margin-right: 5px;
+    border: 1px solid #ffffff;
+    
+  }
+  
+  .dot.filled {
+    background-color: #fff;
+    color: #000;
+    
+  }
+  
